@@ -3,6 +3,7 @@
 
 <!--
 **kavya-k243/kavya-k243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 My name is Kavya Khandelwal. I am from Kota(Rajasthan) i have done my schooling from there only. I am currently pursuing B.Tech CSE from Upes with major in Cloud Computing and Virtualization Technology and minor in Cyber Security and Forensics.  
 
 Here are some ideas to get you started:
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
