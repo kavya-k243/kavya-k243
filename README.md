@@ -4,7 +4,7 @@
 <!--
 **kavya-k243/kavya-k243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-My name is Kavya Khandelwal. I am from Kota(Rajasthan) i have done my schooling from there only. I am currently pursuing B.Tech CSE from Upes with major in Cloud Computing and Virtualization Technology and minor in Cyber Security and Forensics.
+My name is Kavya Khandelwal. I am from Kota(Rajasthan) i have done my schooling from there only. I am currently pursuing B.Tech CSE from Upes with major in Cloud Computing and Virtualization Technology and minor in Cyber Security and Forensics. I was a part of PWC Launchpad 2023. I have done my summer internship from Celebal Technologies in Cloud Security Department. 
 My skills are: I have my hands on AWS services,  My sql. You can reach me on **mail** kavyakhandelwal0243@gmail.com and on **linkeldn** https://www.linkedin.com/in/kavya-khandelwal-0b4083203/
 
 
